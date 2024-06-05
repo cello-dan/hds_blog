@@ -1,7 +1,7 @@
 name: "."
-title: "Dan's Health Data Science Blog"
+title: "Cello Dan"
 description: |
-  HDS Blog
+  Health Data Science Blog
 output_dir: "docs"
 navbar:
   right:
