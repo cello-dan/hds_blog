@@ -1,11 +1,11 @@
 ---
 title: "Welcome"
 description: |
-  Welcome to my first ever blog. 
+  This is my first ever blog. 
   I hope you enjoy 
-  reading what we have to say!
+  reading what I have to say :)
 author:
-  - name: Cello Dan
+  - name: Dan Smith
     url:
     affiliation:
     affiliation_url:
